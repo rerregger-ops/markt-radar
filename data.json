@@ -1,0 +1,34 @@
+{
+  "days": [
+    {
+      "date": "2026-11-21",
+      "scores": {
+        "tech": -4.0,
+        "rohstoffe": 2.5,
+        "waehrungen": 0.5,
+        "krypto": -4.5,
+        "industrie": -1.5
+      },
+      "top_news": [
+        {
+          "sector": "Tech",
+          "title": "SEC-Untersuchung bei Nvidia verstärkt Tech-Ausverkauf",
+          "reason": "Berichte über eine behördliche Prüfung von Nvidias Buchhaltung belasten das Vertrauen in KI-Schwergewichte und beschleunigen die Korrektur an den Halbleitermärkten.",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5"
+        },
+        {
+          "sector": "Krypto",
+          "title": "Bitcoin stürzt unter 57.000 Dollar auf Zweijahrestief",
+          "reason": "Eine Flucht in Barmittel sowie massive Liquidationen von Hebelpositionen setzen den gesamten Kryptomarkt unter extremen Verkaufsdruck.",
+          "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone"
+        },
+        {
+          "sector": "Rohstoffe",
+          "title": "US-Sanktionen gegen iranische Öleinnahmen schüren Versorgungsängste",
+          "reason": "Verschärfte Maßnahmen gegen den iranischen Ölhandel sowie anhaltende militärische Konflikte im Nahen Osten treiben die Risikoprämien bei Energierohstoffen an.",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3NtX0JqMFVBeHBVcTdlV1ZTaXRRMUhnLV9YWmR3VEZqUHVwbFlnOTlFTlZtTTExbUhTNzBsWXR6YTNYQmdMdVg4VGJuTTRYR19wSHhSZUJaTlRxWWpFT0o3SGgzb2JrOXY4b2xMd3cxQ2VlbGZPUzFGU2hJNFJLLTV6YlZLdmlGbUNaY19jMDdMLXVLTGRiT2ZfR2dMY0JuNzc0UzE0akxlelRNNl9sYzhLMkFwczA?oc=5"
+        }
+      ]
+    }
+  ]
+}
