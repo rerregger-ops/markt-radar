@@ -1,0 +1,39 @@
+name: Taegliches Markt-Update
+
+on:
+  schedule:
+    # Läuft jeden Tag um 06:00 UTC (= 07:00 Uhr Winterzeit / 08:00 Uhr Sommerzeit)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Erlaubt dir, das Update jederzeit manuell per Klick zu starten!
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository laden
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Pakete installieren
+        run: pip install google-genai pydantic
+
+      - name: KI-Auswertung ausführen
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python update.py
+
+      - name: Neue Daten speichern
+        run: |
+          git config user.name "Market Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data.json
+          git commit -m "Tägliches Markt-Update" || exit 0
+          git push
