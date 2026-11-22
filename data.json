@@ -29,6 +29,36 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3NtX0JqMFVBeHBVcTdlV1ZTaXRRMUhnLV9YWmR3VEZqUHVwbFlnOTlFTlZtTTExbUhTNzBsWXR6YTNYQmdMdVg4VGJuTTRYR19wSHhSZUJaTlRxWWpFT0o3SGgzb2JrOXY4b2xMd3cxQ2VlbGZPUzFGU2hJNFJLLTV6YlZLdmlGbUNaY19jMDdMLXVLTGRiT2ZfR2dMY0JuNzc0UzE0akxlelRNNl9sYzhLMkFwczA?oc=5"
         }
       ]
+    },
+    {
+      "date": "2026-11-22",
+      "scores": {
+        "tech": -3.5,
+        "rohstoffe": 3.5,
+        "waehrungen": 0.5,
+        "krypto": -0.5,
+        "industrie": -2.0
+      },
+      "top_news": [
+        {
+          "sector": "Rohstoffe",
+          "title": "Eskalation im Nahen Osten treibt die Ölpreise nach oben",
+          "reason": "Angriffe auf Tanker bei Hormus sowie militärische Spannungen mit dem Iran schüren Versorgungsängste und sorgen für spürbare Risikoaufschläge bei Rohöl.",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3pQREZDSHE2RmNHdDdGdExDUXhYeWljc2VualVoQ09oQV90WnFQQlZkYW1rWnl5ODJ6N2haaVBDVUY4VmFvRmtLSlZKbU5kR1lHNklrUUR3X3JGc181OHZCUHpXalZFUllBZXVEczJPUUdZZUt1MmpsTEN0MkJGSDNCVHhoa25pZFBSb1lldS1US0VJNVNBWWN1U2VwQmd0WmlQR1RKWmgyS2lyUDVfNHdWeWhzaFhmZ1E?oc=5"
+        },
+        {
+          "sector": "Tech",
+          "title": "SEC-Untersuchung gegen Nvidia belastet den Technologiesektor",
+          "reason": "Ermittlungen der US-Börsenaufsicht zur Bilanzierung des KI-Marktführers verstärken die Korrektur an den US-Tech-Börsen massiv.",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5"
+        },
+        {
+          "sector": "Krypto",
+          "title": "Bitcoin erholt sich um 9 Prozent nach Abverkauf auf Mehrjahrestief",
+          "reason": "Eine technische Erholungsrallye hebt Bitcoin zurück über die 60.000-Dollar-Marke, während Liquidationsrisiken und Protokoll-Hacks die Stimmung dämpfen.",
+          "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
+        }
+      ]
     }
   ]
 }
