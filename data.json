@@ -59,6 +59,36 @@
           "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
         }
       ]
+    },
+    {
+      "date": "2026-11-23",
+      "scores": {
+        "tech": -2.5,
+        "rohstoffe": 1.5,
+        "waehrungen": 0.5,
+        "krypto": -2.0,
+        "industrie": -1.5
+      },
+      "top_news": [
+        {
+          "sector": "Rohstoffe",
+          "title": "Angriffe im Nahen Osten treiben Risikoprämie für Öl",
+          "reason": "Drohnen- und Raketenangriffe auf Industrie- und Ölanlagen in Saudi-Arabien stützen die Ölpreise durch eine anhaltende geopolitische Risikoprämie.",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb016TW1Rc3N2Q0h6TVJZUFBSeXZqWklRWXgwZ2QyUnRCa0tnWnI4b0Z2YkVVZlVGWTJwa0E3SEVqNnotSE4zOFpOdjJUSE5GcjB5RHJxaklsM0I2U1owemZ4aUJmYkRhUUM2VjVFd09paWhIWHhFUWxmcmhzT3Y5RWhCTENfNE00a3RaYnhnOGgweEJoNEVtNTVKS0pLTWNiY2ZfM1pvbFNieG5DbWpGcUdOM19xZFF5QXl5LWZXNVRrZw?oc=5"
+        },
+        {
+          "sector": "Währungen",
+          "title": "Dollar gibt nach Marktkorrektur von 19-Monats-Hoch nach",
+          "reason": "Die Erwartungen an aggressivere Fed-Zinsschritte kühlen nach dem Marktabverkauf ab, was den US-Dollar leicht schwächt, während die Zinsunsicherheit hoch bleibt.",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVA0aUFSMnFob3ZJdVFvbmlpN0JDRWFRNUJwZ1BIY19KU3RXZjJTRGdLaU00NGJ6dDRvX3VBUDdtcG9XQWRiRFhuUzhMZTNsN2lDSWVKMmI2Vi1EQ3dFUE5mM3dwZGNQWC1zZXhnZTJfVEVuYzVETlV1enJTN0dPZlQ3SlozeklDTzkwck16LW42eWt5aDJEY0w4M0Ytd0ZlRnBSZmZpN0Z5bkxTLXNXcWdtSW0?oc=5"
+        },
+        {
+          "sector": "Tech",
+          "title": "US-Behörden warnen vor weiteren Tech- und Systemausfällen",
+          "reason": "Warnungen vor anhaltenden IT-Störungen belasten den Sektor, der ohnehin mit Regulierungsdebatten und Finanzierungsproblemen bei KI- und Robotik-Startups kämpft.",
+          "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html"
+        }
+      ]
     }
   ]
 }
