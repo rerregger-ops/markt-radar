@@ -89,6 +89,36 @@
           "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html"
         }
       ]
+    },
+    {
+      "date": "2026-11-24",
+      "scores": {
+        "tech": 3.5,
+        "rohstoffe": -2.8,
+        "waehrungen": -0.5,
+        "krypto": 0.8,
+        "industrie": -0.6
+      },
+      "top_news": [
+        {
+          "sector": "Tech",
+          "title": "Nvidia-Rallye und Rekordvolumen nach Rückkehr von CEO Jensen Huang",
+          "reason": "Das Comeback von Jensen Huang stellt das Anlegervertrauen wieder her und treibt das Handelsvolumen sowie die Stimmung im gesamten KI- und Halbleitersektor stark an.",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html"
+        },
+        {
+          "sector": "Rohstoffe",
+          "title": "Ölpreise auf Drei-Monats-Tief durch wachsendes Angebot",
+          "reason": "Trotz anhaltender geopolitischer Spannungen im Nahen Osten überwiegt die steigende Ölförderung und setzt die Rohölpreise massiv unter Druck.",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDQ4RU9qMFd6TWl0WkFDUGVsdk5Gb3Q1dURMcjcwbGxUV3ItdjhZUGdQUTBZOVUyZEZlRzdmSEtjM3EwQTNUam1nRVZNdXFRbmNfeHhpUnNVQjNPbjNyOGtSZHVnNEZmbnpJdC1VdVA5X25rWndhMnZqemNGVWdVU1Y5OE8ybExyT2xLelF6dnZsNkM0OU55b1dKc1NuNF9sWkVGSGZJaUNxLXc4eEdGZTl3LUtFTDFuUUE?oc=5"
+        },
+        {
+          "sector": "Währungen",
+          "title": "Fed signalisiert längerfristig höhere Zinsen gegen die Inflation",
+          "reason": "Die Äußerungen von Fed-Vertreter John Williams dämpfen Zinssenkungserwartungen, was den US-Dollar stützt und die Finanzierungsbedingungen weltweit restriktiv hält.",
+          "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"
+        }
+      ]
     }
   ]
 }
