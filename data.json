@@ -119,6 +119,36 @@
           "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"
         }
       ]
+    },
+    {
+      "date": "2026-11-25",
+      "scores": {
+        "tech": -1.2,
+        "rohstoffe": -0.8,
+        "waehrungen": -0.4,
+        "krypto": -1.5,
+        "industrie": -0.6
+      },
+      "top_news": [
+        {
+          "sector": "Tech",
+          "title": "Vorwürfe gegen Nvidia-Chef wegen US-Exportkontrollen",
+          "reason": "US-Senator Schumer wirft Nvidia Verstöße gegen Chip-Exportbeschränkungen vor, was die regulatorischen und geopolitischen Risiken für den KI-Marktführer verschärft.",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWkIyNDFsT2dsN05tM0U4NFZjRU9IZG1Bemx1b2hqOXFneHV3bDBnY0gzc3drRkxjY0JqWVdPTW8xR29QUy1wczZRM0FaemMzMEk3X2I5Wlp5elVhS0dTb2tIMFJ3VlZ3a0dNelRZYWFpeVA0THA3UDkwMGVtd1BZMENTbEZ6alRuR3pnNnI0TGdMWjZ3VVBmb2lDZHd4ckJwVzJRTk1veERGQQ?oc=5"
+        },
+        {
+          "sector": "Rohstoffe",
+          "title": "Ölpreise geben wegen drohendem Überangebot nach",
+          "reason": "Trotz anhaltender Eskalationen und Huthi-Drohungen im Nahen Osten drückt die Aussicht auf ein weltweites Angebotsüberhang die Rohölpreise ins Minus.",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGl4Nzdfc01ReTB5TnAxUkVLTXlaRVFvbGM5aTZDOEtVUXlrVDQtMHJwcWh2WldoMnVyb0QxU1pEQUoyN09sNU1SZXR3NVUzdTZXeWpkdGNTZW95MUtmdjV3dWFxTEZsRW5WUlF1djVTTWZxUGVxcHhPNEptMnBEcmZ0MURhX0JxTDFqc19HblpWd2hLSEs5SXRYTXB6bzFwNzZqOUFTc1ZOM3ItVDFZWmM2a0R5YkxsdnlsMTZWQ1ZEUQ?oc=5"
+        },
+        {
+          "sector": "Krypto",
+          "title": "CleanSpark trennt sich von größeren Bitcoin-Beständen",
+          "reason": "Der Krypto-Miner veräußert zur Risikoreduzierung mehr Bitcoin als gefördert werden, was Bedenken hinsichtlich eines wachsenden Abgabedrucks schürt.",
+          "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
     }
   ]
 }
