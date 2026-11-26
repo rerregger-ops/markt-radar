@@ -149,6 +149,36 @@
           "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "scores": {
+        "tech": -0.8,
+        "rohstoffe": 1.5,
+        "waehrungen": 0.4,
+        "krypto": -1.0,
+        "industrie": -2.2
+      },
+      "top_news": [
+        {
+          "sector": "Rohstoffe",
+          "title": "Ölpreise steigen nach Berichten über iranische Minenangriffe",
+          "reason": "Sorgen vor einer Eskalation im Nahen Osten und drohenden Lieferengpässen treiben die Rohstoffnotierungen nach oben. Dies erhöht gleichzeitig den Druck auf die Inflationserwartungen der Märkte.",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHpfX3p2RFoxU2l0SGZVbVdSejdGYkc0NFpERWlxVEtab0pQbGd1NUtqQ3c0cXprdWItUF9fRmVVVElET3BNbklnbElwaC1UZ0xoNnd4dE9Wb2dFVDFGN2JyQ3YyUVhfTWxsNGFWNFNURG5kX1pMdVBtb2QyLXFMaXZPM0ZPdGdud1hWdHFuTEpNQXBtdUh6RmpWcW1jelhTU0JHdmp3dWphb0hB?oc=5"
+        },
+        {
+          "sector": "Tech",
+          "title": "S&P warnt vor Herabstufung von Nvidia wegen Governance-Risiken",
+          "reason": "Die Drohung einer Bonitätsabwertung für den KI-Vorzeigekonzern verunsichert Technologieinvestoren zusätzlich zu den bestehenden Marktturbulenzen. Sie lenkt den Fokus auf Führungs- und Kontrollrisiken bei Branchenriesen.",
+          "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html"
+        },
+        {
+          "sector": "Industrie",
+          "title": "USA planen überraschende Zölle auf brasilianische Flugzeuge und Importe",
+          "reason": "Die drohenden Abgaben belasten Flugzeugbauer wie Embraer und verteuern die Flottenbeschaffung für US-Airlines. Dies schürt erneute Furcht vor breiteren handelspolitischen Verwerfungen im Industriesektor.",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGZ4TFg5REgyY0VnandHQjZIMFN1cnNBOEJVQTBDaU1IWDFLVUxmdHFTXzRLVnVKc3pHd3lTYk9lRHZBOWV1Skd5V0VzVU05ZDRjZXdZekl5cWFneWI2b3ptS09taEhjNzZIcGhuWVdydDk5cnpkcElkMUdTZkJjTjROT09sOG5adVUxNVpNeGp5UmxaaHl2bzh6TklXMlp2eVQyVW9idi1QV25LcnpIeFBjMEF4RzNNbkNIU3JOUlN6WWVqSjRtTlFZMA?oc=5"
+        }
+      ]
     }
   ]
 }
