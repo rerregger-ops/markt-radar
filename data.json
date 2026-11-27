@@ -179,6 +179,36 @@
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGZ4TFg5REgyY0VnandHQjZIMFN1cnNBOEJVQTBDaU1IWDFLVUxmdHFTXzRLVnVKc3pHd3lTYk9lRHZBOWV1Skd5V0VzVU05ZDRjZXdZekl5cWFneWI2b3ptS09taEhjNzZIcGhuWVdydDk5cnpkcElkMUdTZkJjTjROT09sOG5adVUxNVpNeGp5UmxaaHl2bzh6TklXMlp2eVQyVW9idi1QV25LcnpIeFBjMEF4RzNNbkNIU3JOUlN6WWVqSjRtTlFZMA?oc=5"
         }
       ]
+    },
+    {
+      "date": "2026-11-27",
+      "scores": {
+        "tech": 0.5,
+        "rohstoffe": 2.2,
+        "waehrungen": 1.5,
+        "krypto": -1.2,
+        "industrie": 0.2
+      },
+      "top_news": [
+        {
+          "sector": "Rohstoffe",
+          "title": "Angriff auf Saudi-Aramco-Raffinerie befeuert Ölpreise",
+          "reason": "Der Angriff auf die Jazan-Raffinerie von Saudi Aramco und anhaltende Versorgungsängste beenden den mehrwöchigen Abwärtstrend beim Rohöl. Dies sorgt für deutlichen Auftrieb an den Rohstoffmärkten.",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnNINWJlUzU0bDVSQ1Z5TWhtZTl1dzVxa01lbWhiMTg0bjBKZzQtbld6RmpIQ3NOSkctT29wTmdmR3VCcHpMbzdBQUdQSU0wVWItQU1COHhCS1BzYnpoOTJsRzl2TWp0aVNNZWVpZVFhS2cwWXVtNnA0bzRfUXNTRTJRTEVHem5BY2V2SURxZG9Vb3VkT3FNa1RuR3RfZWJQUE15WTdGaVFudnJaeVJIdVhXdE9PcWFuY2c?oc=5"
+        },
+        {
+          "sector": "Währungen",
+          "title": "US-Dollar steuert auf dritten Monatsgewinn in Folge zu",
+          "reason": "Der US-Dollar zeigt sich im globalen Devisengefüge weiterhin dominant und robust. Gleichzeitig fassen internationale Aktienmärkte nach vorangegangenen Verlusten wieder vorsichtig Fuß.",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDB1T1E2SVA0LVpuZFR6d2d5dWFobkEwdkN5aFVmZUZKN1pSVWExbEJzWlZhV0tKcklRQ09yZlFTZklkLTBNSGFwbHBfbHR2SWZoQTdXcWtFdEViWGdQamN2a0JjWjZ4M0Mydmlpc1lrQUdYaFBNVkFBdTQ4djVpbjZrRQ?oc=5"
+        },
+        {
+          "sector": "Krypto",
+          "title": "Binance normalisiert Auszahlungen nach Milliarden-Hack",
+          "reason": "Vier Wochen nach dem schweren Sicherheitsvorfall sind Kundenauszahlungen wieder vollumfänglich möglich. Die Meldung bringt dringend benötigte Beruhigung in den von Liquiditätsängsten geplagten Sektor.",
+          "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack"
+        }
+      ]
     }
   ]
 }
