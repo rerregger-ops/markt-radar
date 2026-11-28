@@ -209,6 +209,36 @@
           "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack"
         }
       ]
+    },
+    {
+      "date": "2026-11-28",
+      "scores": {
+        "tech": 1.2,
+        "rohstoffe": 2.5,
+        "waehrungen": 0.0,
+        "krypto": -1.8,
+        "industrie": -1.5
+      },
+      "top_news": [
+        {
+          "sector": "Rohstoffe",
+          "title": "Iran-Konflikt treibt Treibstoffpreise und belastet Luftfahrt",
+          "reason": "Die Zuspitzung des Nahost-Konflikts schürt Angebotssorgen bei Treibstoffen und führte bereits zu ersten Insolvenzen im Luftverkehrssektor wie bei Norse Atlantic.",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUFZ5amdzZG00RTRadGk1NlNDb0JFeTNseGJid3dwNWtNTFBvaVQ1LVdnSUs1Rkk3Uy1tTlNDVVBmMkRkV1QxU3lGcHR2ZzU0bG9PMlM4OXphZHpVVVBXNS14WnRNX2xsWEZrSXV4TjRHUlZFWUlEYldEY1NFZlRqa2xjNUE2T0l5cWJ3MTU4aGo3Qk91WVcwdHdtZWdkTEZ2bWdnUGxrVHdOYmZ4ZDVMOGtWc2U5S2ZuM1FjRQ?oc=5"
+        },
+        {
+          "sector": "Tech",
+          "title": "Black-Friday-Rallye stützt Tech-Werte trotz KI-Schwankungen",
+          "reason": "Trotz anhaltender Nervosität um KI-Bewertungen treibt das starke Feiertagsgeschäft die Aktienmärkte in Richtung Rekordniveaus.",
+          "url": "https://www.cnbc.com/investingclub/2026/11/27/top-10-things-to-watch-in-the-stock-market-on-black-friday.html"
+        },
+        {
+          "sector": "Krypto",
+          "title": "Bitcoin rutscht unter 59.000 Dollar inmitten von Marktrotationen",
+          "reason": "Während traditionelle Tech-Aktien zulegen, gerät der Krypto-Sektor unter Abgabedruck und koppelt sich vorübergehend negativ von den Aktienmärkten ab.",
+          "url": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
     }
   ]
 }
